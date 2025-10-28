@@ -1,0 +1,14 @@
+C:\Users\55339015823\Desktop\BackEnd\ReviwArrays\obj\Debug\net9.0\ReviwArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55339015823\Desktop\BackEnd\ReviwArrays\obj\Debug\net9.0\ReviwArrays.AssemblyInfoInputs.cache
+C:\Users\55339015823\Desktop\BackEnd\ReviwArrays\obj\Debug\net9.0\ReviwArrays.AssemblyInfo.cs
+C:\Users\55339015823\Desktop\BackEnd\ReviwArrays\obj\Debug\net9.0\ReviwArrays.csproj.CoreCompileInputs.cache
+C:\Users\55339015823\Desktop\BackEnd\ReviwArrays\bin\Debug\net9.0\ReviwArrays.exe
+C:\Users\55339015823\Desktop\BackEnd\ReviwArrays\bin\Debug\net9.0\ReviwArrays.deps.json
+C:\Users\55339015823\Desktop\BackEnd\ReviwArrays\bin\Debug\net9.0\ReviwArrays.runtimeconfig.json
+C:\Users\55339015823\Desktop\BackEnd\ReviwArrays\bin\Debug\net9.0\ReviwArrays.dll
+C:\Users\55339015823\Desktop\BackEnd\ReviwArrays\bin\Debug\net9.0\ReviwArrays.pdb
+C:\Users\55339015823\Desktop\BackEnd\ReviwArrays\obj\Debug\net9.0\ReviwArrays.dll
+C:\Users\55339015823\Desktop\BackEnd\ReviwArrays\obj\Debug\net9.0\refint\ReviwArrays.dll
+C:\Users\55339015823\Desktop\BackEnd\ReviwArrays\obj\Debug\net9.0\ReviwArrays.pdb
+C:\Users\55339015823\Desktop\BackEnd\ReviwArrays\obj\Debug\net9.0\ReviwArrays.genruntimeconfig.cache
+C:\Users\55339015823\Desktop\BackEnd\ReviwArrays\obj\Debug\net9.0\ref\ReviwArrays.dll

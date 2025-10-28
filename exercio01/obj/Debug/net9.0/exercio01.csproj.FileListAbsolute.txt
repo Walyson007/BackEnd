@@ -1,0 +1,14 @@
+C:\Users\55339015823\Desktop\BackEnd\exercio01\bin\Debug\net9.0\exercio01.exe
+C:\Users\55339015823\Desktop\BackEnd\exercio01\bin\Debug\net9.0\exercio01.deps.json
+C:\Users\55339015823\Desktop\BackEnd\exercio01\bin\Debug\net9.0\exercio01.runtimeconfig.json
+C:\Users\55339015823\Desktop\BackEnd\exercio01\bin\Debug\net9.0\exercio01.dll
+C:\Users\55339015823\Desktop\BackEnd\exercio01\bin\Debug\net9.0\exercio01.pdb
+C:\Users\55339015823\Desktop\BackEnd\exercio01\obj\Debug\net9.0\exercio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55339015823\Desktop\BackEnd\exercio01\obj\Debug\net9.0\exercio01.AssemblyInfoInputs.cache
+C:\Users\55339015823\Desktop\BackEnd\exercio01\obj\Debug\net9.0\exercio01.AssemblyInfo.cs
+C:\Users\55339015823\Desktop\BackEnd\exercio01\obj\Debug\net9.0\exercio01.csproj.CoreCompileInputs.cache
+C:\Users\55339015823\Desktop\BackEnd\exercio01\obj\Debug\net9.0\exercio01.dll
+C:\Users\55339015823\Desktop\BackEnd\exercio01\obj\Debug\net9.0\refint\exercio01.dll
+C:\Users\55339015823\Desktop\BackEnd\exercio01\obj\Debug\net9.0\exercio01.pdb
+C:\Users\55339015823\Desktop\BackEnd\exercio01\obj\Debug\net9.0\exercio01.genruntimeconfig.cache
+C:\Users\55339015823\Desktop\BackEnd\exercio01\obj\Debug\net9.0\ref\exercio01.dll

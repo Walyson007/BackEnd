@@ -1,0 +1,14 @@
+C:\Users\55339015823\Desktop\BackEnd\desafiocalc\obj\Debug\net9.0\desafiocalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55339015823\Desktop\BackEnd\desafiocalc\obj\Debug\net9.0\desafiocalc.AssemblyInfoInputs.cache
+C:\Users\55339015823\Desktop\BackEnd\desafiocalc\obj\Debug\net9.0\desafiocalc.AssemblyInfo.cs
+C:\Users\55339015823\Desktop\BackEnd\desafiocalc\obj\Debug\net9.0\desafiocalc.csproj.CoreCompileInputs.cache
+C:\Users\55339015823\Desktop\BackEnd\desafiocalc\bin\Debug\net9.0\desafiocalc.exe
+C:\Users\55339015823\Desktop\BackEnd\desafiocalc\bin\Debug\net9.0\desafiocalc.deps.json
+C:\Users\55339015823\Desktop\BackEnd\desafiocalc\bin\Debug\net9.0\desafiocalc.runtimeconfig.json
+C:\Users\55339015823\Desktop\BackEnd\desafiocalc\bin\Debug\net9.0\desafiocalc.dll
+C:\Users\55339015823\Desktop\BackEnd\desafiocalc\bin\Debug\net9.0\desafiocalc.pdb
+C:\Users\55339015823\Desktop\BackEnd\desafiocalc\obj\Debug\net9.0\desafiocalc.dll
+C:\Users\55339015823\Desktop\BackEnd\desafiocalc\obj\Debug\net9.0\refint\desafiocalc.dll
+C:\Users\55339015823\Desktop\BackEnd\desafiocalc\obj\Debug\net9.0\desafiocalc.pdb
+C:\Users\55339015823\Desktop\BackEnd\desafiocalc\obj\Debug\net9.0\desafiocalc.genruntimeconfig.cache
+C:\Users\55339015823\Desktop\BackEnd\desafiocalc\obj\Debug\net9.0\ref\desafiocalc.dll
