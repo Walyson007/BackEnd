@@ -23,6 +23,8 @@ namespace ExerciciosMetodoConstrutor
     }
 }
 
+
+// ******** ENCAPSULAMENTO ********** //
 public class ContaBancaria
 {
     private double saldo; // dado protegido
