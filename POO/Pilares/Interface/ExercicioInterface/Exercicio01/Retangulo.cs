@@ -1,12 +1,14 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace Exercicio01
 {
-    public class Retangulo
+    public class Retangulo : IForma
     {
-        
+        public float Altura;
+        public float Largura;
+        public void CalcularArea()
+        {
+           System.Console.WriteLine($"A área do retangulo é: {Largura * Altura}");
+
+        }
     }
 }
